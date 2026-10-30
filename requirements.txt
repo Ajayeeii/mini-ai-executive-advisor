@@ -1,0 +1,8 @@
+streamlit
+google-genai>=2.33.0,<3.0.0
+pymupdf
+python-docx
+scikit-learn
+pandas
+python-dotenv
+pytest

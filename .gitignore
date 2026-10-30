@@ -1,0 +1,33 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Uploaded business documents
+data/uploads/
+# Temporary administrator setup script
+create_admin.py
+
+# Local environment variants
+.env.*
+!.env.example
+
+# Application logs
+*.log

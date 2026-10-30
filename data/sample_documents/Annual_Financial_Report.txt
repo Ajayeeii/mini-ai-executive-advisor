@@ -1,0 +1,36 @@
+
+ANNUAL FINANCIAL REPORT
+Company: Demo Business Solutions
+Financial Year: 2025
+
+1. REVENUE
+
+Total Revenue: 100000
+
+2. COST OF GOODS SOLD
+
+Total Cost of Goods Sold: 40000
+
+3. OPERATING EXPENSES
+
+Employee Salaries: 15000
+Office Rent: 6000
+Marketing Expenses: 4000
+
+Total Operating Expenses: 25000
+
+4. FINANCIAL SUMMARY
+
+Total Revenue: 100000
+Total Expenses: 65000
+Gross Profit: 60000
+Net Profit: 35000
+
+5. MANAGEMENT COMMENTARY
+
+The company generated total revenue of 100000
+during the 2025 financial year.
+
+Total operating expenses were 25000.
+
+The company recorded a net profit of 35000.
